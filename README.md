@@ -18,7 +18,9 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 
 ## 🎮 Live Demo
 
-[Click here to play the game](#) <!-- Replace with your GitHub Pages or live link once uploaded -->
+
+[Click here to play the game](https://BabluThakur.github.io/tic-tac-toe-game/)
+
 
 ## 📸 Screenshots
 
