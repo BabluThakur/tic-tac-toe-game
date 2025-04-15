@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:#6f8695;
+    text-align: center;  
+    background-image: url("https://static.vecteezy.com/system/resources/previews/006/458/958/non_2x/abstract-metallic-blue-overlap-layers-element-realistic-effect-with-light-decoration-frame-layout-design-tech-innovation-concept-gaming-background-space-on-for-text-vector.jpg");  
+
+}
+
+.container{
+    height:70vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.game{
+    height:60vmin;
+    width:60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    gap:1.5vmin
+}
+.btn{
+    height:18vmin;
+    width:18vmin;
+    border-radius: 1rem;
+    border:none;
+    background-color:aqua;
+    font-size:2rem;
+    color:red;
+}
+.Reset{
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: red;
+    font-size: 2rem;
+}
+.msg-container{
+    height: 18vmin;
+
+}
+.msg{
+    font-size: 5rem;
+    color:aquamarine
+}
+.hide{
+    display: none;
+}
+.newgame{
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: red;
+    font-size: 1rem;
+}
